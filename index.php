@@ -4,6 +4,6 @@ require "vendor/test/Projet/Test.php";
 
 var_dump("expression");
 
-$marie = new Test;
+$marie = new \Projet\Test;
 
 var_dump($marie);
